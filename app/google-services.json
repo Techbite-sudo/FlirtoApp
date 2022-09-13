@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "361169953909",
+    "firebase_url": "https://flirto-f0a42-default-rtdb.firebaseio.com",
+    "project_id": "flirto-f0a42",
+    "storage_bucket": "flirto-f0a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361169953909:android:6dd90a6fe6887f5673843c",
+        "android_client_info": {
+          "package_name": "com.example.flirto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361169953909-v4iuueg3idtua6umpkal4jbnntsk6ha1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQzgeqs2GAIQVhUSCNymVSZ5rGT9-aIxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361169953909-v4iuueg3idtua6umpkal4jbnntsk6ha1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "361169953909-gaq6lq3psnd0i3gcine77ajqcaeb88a8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flirto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361169953909:android:deecfe42f98f48ed73843c",
+        "android_client_info": {
+          "package_name": "com.example.java_flirto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361169953909-v4iuueg3idtua6umpkal4jbnntsk6ha1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQzgeqs2GAIQVhUSCNymVSZ5rGT9-aIxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361169953909-v4iuueg3idtua6umpkal4jbnntsk6ha1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "361169953909-gaq6lq3psnd0i3gcine77ajqcaeb88a8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flirto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361169953909:android:a683401363bc2c6873843c",
+        "android_client_info": {
+          "package_name": "com.example.javaflirto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361169953909-jogt2nqv36ecthq7mlv9m5leaqsln30n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.javaflirto",
+            "certificate_hash": "e641bd0c41e1f9d203fa8588fd2323042381d41c"
+          }
+        },
+        {
+          "client_id": "361169953909-v4iuueg3idtua6umpkal4jbnntsk6ha1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQzgeqs2GAIQVhUSCNymVSZ5rGT9-aIxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361169953909-v4iuueg3idtua6umpkal4jbnntsk6ha1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "361169953909-gaq6lq3psnd0i3gcine77ajqcaeb88a8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flirto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
