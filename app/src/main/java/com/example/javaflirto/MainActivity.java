@@ -195,22 +195,18 @@ public class MainActivity extends AppCompatActivity {
                     arrayAdapter.notifyDataSetChanged();
                 }
             }
-
             @Override
             public void onChildChanged(@NonNull DataSnapshot snapshot, @Nullable String previousChildName) {
 
             }
-
             @Override
             public void onChildRemoved(@NonNull DataSnapshot snapshot) {
 
             }
-
             @Override
             public void onChildMoved(@NonNull DataSnapshot snapshot, @Nullable String previousChildName) {
 
             }
-
             @Override
             public void onCancelled(@NonNull DatabaseError error) {
 
@@ -225,6 +221,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
         finish();
         return;
+
     }
 
 //    static void makeToast(Context ctx, String s){
