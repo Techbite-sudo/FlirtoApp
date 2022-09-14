@@ -225,6 +225,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
         finish();
         return;
+
     }
 
 //    static void makeToast(Context ctx, String s){
