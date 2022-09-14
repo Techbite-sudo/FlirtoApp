@@ -44,7 +44,6 @@ public class RegistrationActivity extends AppCompatActivity {
                 return;
             }
 
-
         };
 
         mRegister = (Button) findViewById(R.id.register);
@@ -62,8 +61,6 @@ public class RegistrationActivity extends AppCompatActivity {
             if (radioButton.getText() == null){
                 return;
             }
-
-
 
 
             final String email = mEmail.getText().toString();
