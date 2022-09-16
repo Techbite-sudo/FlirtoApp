@@ -190,6 +190,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
     public void getOppositeSexUsers(){
 
         final FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
