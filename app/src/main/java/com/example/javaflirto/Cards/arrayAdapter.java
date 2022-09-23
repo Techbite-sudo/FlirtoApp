@@ -1,4 +1,4 @@
-package com.example.javaflirto;
+package com.example.javaflirto.Cards;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,6 +9,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.example.javaflirto.Cards.cards;
+import com.example.javaflirto.R;
 
 import java.util.List;
 

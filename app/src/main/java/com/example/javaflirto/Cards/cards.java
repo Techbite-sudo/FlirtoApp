@@ -1,4 +1,4 @@
-package com.example.javaflirto;
+package com.example.javaflirto.Cards;
 
 public class cards {
     private String userId;
