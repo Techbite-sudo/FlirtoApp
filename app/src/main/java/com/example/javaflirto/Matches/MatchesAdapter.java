@@ -16,7 +16,6 @@ public class MatchesAdapter extends RecyclerView.Adapter<MatchesViewHolders>{
     private List<MatchesObject> matchesList;
     private Context context;
 
-
     public MatchesAdapter(List<MatchesObject> matchesList, Context context){
         this.matchesList = matchesList;
         this.context = context;
